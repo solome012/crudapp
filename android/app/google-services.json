@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "277600535566",
+    "project_id": "crudprac2-e080f",
+    "storage_bucket": "crudprac2-e080f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277600535566:android:ccfefd8524be368fe8e85f",
+        "android_client_info": {
+          "package_name": "com.example.crud_prac2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA3ooMrPuDqXngojqxQVgTgAD0h11LUvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
